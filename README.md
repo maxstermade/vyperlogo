@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![https://github.com/maxstermade/vyperlogo/blob/master/Moodboard%203%20Letter%20copy-100.jpg](https://github.com/maxstermade/vyperlogo/blob/master/Moodboard%203%20Letter%20copy-100.jpg)
+[Link](url) and ![https://raw.githubusercontent.com/maxstermade/vyperlogo/master/Moodboard%203%20Letter%20copy-100.jpg](fram1)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
